@@ -13,6 +13,7 @@ After installing it, you may need to install the requirements too, ffmpeg, libop
 ## Other requirements
 
 FFmpeg - for MPEG decoding.
+`libopus` - for OPUS streaming on Discord.
 
 ## Commands
 
