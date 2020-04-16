@@ -8,7 +8,7 @@ The installation is made possible by using this command:
 ```
 plugins add Ergastolator1/music-for-modmail_eng/music@master
 ```
-After installing it, you may need to install the requirements too, ffmpeg and restart the Modmail as soon as possible.
+After installing it, you may need to install the requirements too, ffmpeg, libopus and restart the Modmail as soon as possible.
 
 ## Other requirements
 
